@@ -7,7 +7,7 @@
 	<packaging>war</packaging>
 	<version>0.0.1</version>
 	
-	<name>maven-web-application</name>
+	<name>maven-Dev-web-application</name>
 
 	<description>Maven Web Project for Java Project</description>
 	<organization>
@@ -107,7 +107,7 @@
 	</distributionManagement>
 	
 	<build>
-		<finalName>tesla</finalName>
+		<finalName>Dev-tesla</finalName>
 		
 		<plugins>
 			<plugin>
